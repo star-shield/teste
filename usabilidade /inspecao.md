@@ -49,6 +49,11 @@ __negrito__
 ```
 
 if(lula == "ganhar eleição")
-  print("Me mato");
+  print("Me matohahaha");
 
 ```
+
+### Visualização
+
+Essa eu não sabia rs
+
